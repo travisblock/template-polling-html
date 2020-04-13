@@ -1,7 +1,7 @@
 ### Polling Template
 
 
-Polling template using html + css only + jquery
+Responsive Polling / e-voting template using html + css only + jquery
 
 ![](img/ss.png)
 
